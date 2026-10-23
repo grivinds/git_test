@@ -1,1 +1,2 @@
-hello Odinson
+Hello Odinson!
+Loki and Thor
